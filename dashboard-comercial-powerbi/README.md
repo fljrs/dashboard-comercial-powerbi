@@ -18,9 +18,9 @@ Tecnologias utilizadas
 
 Capturas de tela
 
-![Visão geral do dashboard](imagens/capa.png)
-![Narrativa Inteligente](imagens/narrativa-inteligente.png)
-![Influenciadores de Vendas](imagens/influenciadores-vendas.png)
+[Visão geral do dashboard](imagens/capa.png)
+[Narrativa Inteligente](imagens/narrativa-inteligente.png)
+[Influenciadores de Vendas](imagens/influenciadores-vendas.png)
 
 Download do arquivo "mini-projeto-comercial.pbix"
 
