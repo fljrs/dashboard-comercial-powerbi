@@ -26,10 +26,11 @@ Capturas de tela
 
 Download do arquivo "mini-projeto-comercial.pbix"
 
-Você pode baixar o arquivo do projeto aqui:
+Você pode baixar o arquivo (pbix) e a base dados aqui (salvar os dois arquivos no mesmo diretório):
 
- [`mini-projeto-comercial.pbix`](./mini-projeto-comercial.pbix)
- [`Dados_Comerciais.xlsx`](./Dados_Comerciais.xlsx)
+📥[`mini-projeto-comercial.pbix`](./mini-projeto-comercial.pbix)
+
+📥[`Dados_Comerciais.xlsx`](./Dados_Comerciais.xlsx)
 
 Possíveis evoluções
 
