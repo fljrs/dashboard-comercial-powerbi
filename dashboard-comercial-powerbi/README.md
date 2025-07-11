@@ -18,15 +18,18 @@ Tecnologias utilizadas
 
 Capturas de tela
 
-[Visão geral do dashboard](imagens/capa.png)
-[Narrativa Inteligente](imagens/narrativa-inteligente.png)
-[Influenciadores de Vendas](imagens/influenciadores-vendas.png)
+![Visão geral do dashboard](imagens/capa.PNG)
+### Narrativa Inteligente
+![Narrativa Inteligente](imagens/narrativa-inteligente.PNG)
+### Influenciadores de Vendas
+![Influenciadores de Vendas](imagens/influenciadores-vendas.PNG)
 
 Download do arquivo "mini-projeto-comercial.pbix"
 
 Você pode baixar o arquivo do projeto aqui:
 
  [`mini-projeto-comercial.pbix`](./mini-projeto-comercial.pbix)
+ [`Dados_Comerciais.xlsx`](./Dados_Comerciais.xlsx)
 
 Possíveis evoluções
 
@@ -38,5 +41,9 @@ Possíveis evoluções
 Autor
 
 Flavio José Ribeiro da Silva  
+
+Tel: +5511993535702
+
+Email: flaviojsilva0887@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/flavio-jose-ribeiro-da-silva-6258b77b/)  
-[Email]flaviojsilva0887@gmail.com  
