@@ -18,6 +18,7 @@ Tecnologias utilizadas
 
 Capturas de tela
 
+### Capa
 ![Visão geral do dashboard](imagens/capa.PNG)
 ### Narrativa Inteligente
 ![Narrativa Inteligente](imagens/narrativa-inteligente.PNG)
